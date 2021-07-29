@@ -1,4 +1,4 @@
-### Build Discord clone using Recat + redux + googleAuth
+### Build Discord clone using React + redux + googleAuth
  
 
 
