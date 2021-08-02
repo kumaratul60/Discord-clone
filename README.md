@@ -1,6 +1,16 @@
 ### Build Discord clone using React + redux + GoogleAuth
  
+### Snapshots of project 👇
 
+<img target="_blank" src="1.png">
+
+<img target="_blank" src="2.png">
+
+<img target="_blank" src="3.png">
+
+<img target="_blank" src="4.png">
+
+<img target="_blank" src="5.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
