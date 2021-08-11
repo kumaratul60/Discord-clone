@@ -1,6 +1,6 @@
 ### Build Discord clone using React + redux + GoogleAuth
  
-### Snapshots of project 👇
+### Snapshots of project 👇 
 
 <img target="_blank" src="1.png">
 
